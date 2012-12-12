@@ -1,4 +1,16 @@
-practices
+Best practices on software development
 =========
 
-Best practices, code smells etc
+Testing
+=========
+
+* Black-box tests are better than test relying on method implementation
+
+```ruby
+# bad
+
+
+
+# good
+
+```
