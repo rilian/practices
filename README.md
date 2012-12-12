@@ -9,8 +9,32 @@ Testing
 ```ruby
 # bad
 
-
+#TODO: example
 
 # good
 
+#TODO: example
+
 ```
+
+Naming
+=========
+
+* in DB, Boolean columns should have prefix `is_` or `has`
+
+    example1
+    example2
+
+* methods returning Boolean should have `?` postfix
+
+    example1
+    example2
+
+REST APIs
+=========
+
+* API calls should have no more than one ID in the base path
+
+    example1
+    example2
+
