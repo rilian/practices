@@ -38,3 +38,10 @@ REST APIs
     example1
     example2
 
+
+WORK Process
+=========
+
+TODO: This section should help and point to some organizational notes that simplify development, team communication
+
+
